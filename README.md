@@ -2,8 +2,9 @@
 
 * 这是我从开始参加数据科学竞赛以来所有的比赛记录，我会在比赛初期开源部分赛题的Baseline， 比赛结束后视赛题要求决定是否开源我或者我们团队的复赛方案及源代码，既是分享，也是记录
 
-| Name                       | Time             | Task_Type      | Repository                                          | Ranking | Ranking |
+| Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
+| 电子商务欺诈检测      | 2020.12 - 2021.1 | Structure | [Private]()                                    |   Prizes   |    |
 | 借贷风险预测      | 2020.12 - 2020.12 | Structure | [Topline]()                                    |   Training   |   1 / 273 |
 | 公积金贷款逾期预测      | 2020.12 - 2021.2 | Structure | [Baseline]()                                    |   Prizes   |   |
 | CCF BDCI 企业非法集资风险预测      | 2020.10 - 2020.12 | Structure | [Private]()                                    |   Prizes   |11 / 4210    |
