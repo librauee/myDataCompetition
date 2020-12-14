@@ -6,7 +6,7 @@
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
 | 电子商务欺诈检测      | 2020.12 - 2021.1 | Structure | [Private]()                                    |   Prizes   |    |
 | 借贷风险预测      | 2020.12 - 2020.12 | Structure | [Topline]()                                    |   Training   |   1 / 273 |
-| 公积金贷款逾期预测      | 2020.12 - 2021.2 | Structure | [Baseline]()                                    |   Prizes   |   |
+| 公积金贷款逾期预测      | 2020.12 - 2021.2 | Structure | [Baseline](https://github.com/librauee/GJJDKYC)                                    |   Prizes   |   |
 | CCF BDCI 企业非法集资风险预测      | 2020.10 - 2020.12 | Structure | [Private]()                                    |   Prizes   |11 / 4210    |
 | 中移集成首届OneCity编程大赛         | 2020.11 - 2020.12 | NLP | [Baseline](https://github.com/librauee/OneCity) |    Prizes |15 / 663   |
 | 链想家计算科技大赛         | 2020.8 - 2020.11 | Structure | [Private](https://github.com/librauee/2020MOOCCube) |   Prizes  | 1 / 630    |
