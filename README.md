@@ -5,6 +5,7 @@
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
 | 电子商务欺诈检测      | 2020.12 - 2021.1 | Structure | [Private]()                                    |   Prizes   |    |
+| 识别失信企业      | 2020.12 - 2020.12 | Structure | [Topline]()                                    |   Training   |   2 / 305 |
 | 借贷风险预测      | 2020.12 - 2020.12 | Structure | [Topline]()                                    |   Training   |   1 / 273 |
 | 公积金贷款逾期预测      | 2020.12 - 2021.2 | Structure | [Baseline](https://github.com/librauee/GJJDKYC)                                    |   Prizes   |   |
 | CCF BDCI 企业非法集资风险预测      | 2020.10 - 2020.12 | Structure | [Private]()                                    |   Prizes   |11 / 4210    |
