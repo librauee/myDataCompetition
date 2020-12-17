@@ -5,6 +5,8 @@
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
 | 电子商务欺诈检测      | 2020.12 - 2021.1 | Structure | [Private]()                                    |   Prizes   |  Solo |  |
+| 租金预测      | 2020.12 - 2020.12 | Structure | [Topline]()                                    |   Practice   |  Solo | 2 / 634 |
+| 客户流失判断      | 2020.12 - 2020.12 | Structure | [Topline]()                                    |   Practice   |   Solo |5 / 230 |
 | 识别失信企业      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/dishonest_enterprise)                                    |   Practice   |  Solo | 2 / 305 |
 | 借贷风险预测      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/loan_risk_forecast)                                    |   Practice   |   Solo |1 / 273 |
 | 公积金贷款逾期预测      | 2020.12 - 2021.2 | Structure | [Baseline](https://github.com/librauee/GJJDKYC)                                    |   Prizes   |  Solo | |
