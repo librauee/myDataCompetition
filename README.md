@@ -10,7 +10,7 @@
 | 识别失信企业      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/dishonest_enterprise)                                    |   Practice   |  Solo | 2 / 305 |
 | 借贷风险预测      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/loan_risk_forecast)                                    |   Practice   |   Solo |1 / 273 |
 | 公积金贷款逾期预测      | 2020.12 - 2021.2 | Structure | [Baseline](https://github.com/librauee/GJJDKYC)                                    |   Prizes   |  Solo | |
-| CCF BDCI 企业非法集资风险预测      | 2020.10 - 2020.12 | Structure | [Private]()                                    |   Prizes   | Team | 11 / 4210    |
+| CCF BDCI 企业非法集资风险预测      | 2020.10 - 2020.12 | Structure | [Public](https://github.com/librauee/CCFBDCI2020)                                    |   Prizes   | Team | 11 / 4210    |
 | 中移集成首届OneCity编程大赛         | 2020.11 - 2020.12 | NLP | [Baseline](https://github.com/librauee/OneCity) |    Prizes | Solo | 15 / 663   |
 | 链想家计算科技大赛         | 2020.8 - 2020.11 | Structure | [Private](https://github.com/librauee/2020MOOCCube) |   Prizes  | Team | 1 / 630    |
 | WAIC全球工业互联网算法大赛 | 2020.7 - 2020.9  | Structure | [Private](https://github.com/librauee/WAIC2020)     |    Prizes | Solo | 3 / 200+     |
