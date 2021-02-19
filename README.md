@@ -4,7 +4,9 @@
 
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
-| 电子商务欺诈检测      | 2020.12 - 2021.1 | Structure | [Private]()                                    |   Prizes   |  Solo |  |
+| 智慧支付挑战赛              | 2021.1 - 2021.3 | Structure | [Private]()                                    |   Prizes   | Solo |  |
+| 基于AI的信道信息反馈性能提升      | 2021.1 - 2021.3 | Structure | [Baseline]()                                    |   Prizes   | Team |  |
+| Cassava Leaf Disease Classification      | 2021.1 - 2021.2 | Image | [Public]()                                    |   Prizes   |  Solo | 58 / 3947 |
 | 租金预测      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/rental_predict)                                    |   Practice   |  Solo | 2 / 634 |
 | 客户流失判断      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/customer_churn_judgement)                                    |   Practice   |   Solo |1 / 230 |
 | 识别失信企业      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/dishonest_enterprise)                                    |   Practice   |  Solo | 2 / 305 |
