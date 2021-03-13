@@ -6,7 +6,7 @@
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
 | “梧桐杯”中国移动大数据应用创新大赛              | 2021.1 - 2021.3 | Structure | [Baseline](https://github.com/librauee/Wutong/tree/master)                                    |   Prizes   | Solo |  |
 | 银联商务智慧支付挑战赛              | 2021.1 - 2021.3 | Structure | [Private]()                                    |   Prizes   | Solo |  |
-| 基于AI的信道信息反馈性能提升      | 2021.1 - 2021.3 | Structure | [Baseline]()                                    |   Prizes   | Team |  |
+| 基于AI的信道信息反馈性能提升      | 2021.1 - 2021.3 | Structure | [Baseline]()                                    |   Prizes   | Team | 13 / 1175  |
 | Cassava Leaf Disease Classification      | 2021.1 - 2021.2 | Image | [Public](https://github.com/librauee/cassava/tree/master)                                    |   Prizes   |  Solo | 53 / 3900 🥈|
 | 租金预测      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/rental_predict)                                    |   Practice   |  Solo | 2 / 634 |
 | 客户流失判断      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/customer_churn_judgement)                                    |   Practice   |   Solo |1 / 230 |
