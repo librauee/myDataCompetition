@@ -4,7 +4,8 @@
 
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
-| “梧桐杯”中国移动大数据应用创新大赛              | 2021.1 - 2021.3 | Structure | [Baseline](https://github.com/librauee/Wutong/tree/master)                                    |   Prizes   | Solo |  |
+| 腾讯游戏安全技术竞赛              | 2021.4 - 2021.4 | Structure | [Private]()                                    |   Prizes   | Solo |  |
+| “梧桐杯”中国移动大数据应用创新大赛              | 2021.1 - 2021.3 | Structure | [Baseline](https://github.com/librauee/Wutong/tree/master)                                    |   Prizes   | Team | 7 / 475 |
 | 银联商务智慧支付挑战赛              | 2021.1 - 2021.3 | Structure | [Private]()                                    |   Prizes   | Solo |  |
 | 基于AI的信道信息反馈性能提升      | 2021.1 - 2021.3 | Structure | [Baseline]()                                    |   Prizes   | Team | 13 / 1175  |
 | Cassava Leaf Disease Classification      | 2021.1 - 2021.2 | Image | [Public](https://github.com/librauee/cassava/tree/master)                                    |   Prizes   |  Solo | 53 / 3900 🥈|
