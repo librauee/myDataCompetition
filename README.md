@@ -4,7 +4,7 @@
 
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
-| 基于车联网大数据的碰撞识别              | 2021.3 - 2021.4 | Structure | [Private]()                                    |   Prizes   | Team |  10 / 1346|
+| 基于车联网大数据的碰撞识别              | 2021.3 - 2021.4 | Structure | [Private]()                                    |   Prizes   | Team |  9 / 1346|
 | 腾讯游戏安全技术竞赛              | 2021.4 - 2021.4 | Structure | [Private]()                                    |   Prizes   | Solo |  |
 | “梧桐杯”中国移动大数据应用创新大赛              | 2021.1 - 2021.3 | Structure | [Baseline](https://github.com/librauee/Wutong/tree/master)                                    |   Prizes   | Team | 7 / 475 |
 | 银联商务智慧支付挑战赛              | 2021.1 - 2021.3 | Structure | [Private]()                                    |   Prizes   | Solo |  |
