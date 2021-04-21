@@ -2,6 +2,22 @@
 
 * 这是我从开始参加数据科学竞赛以来所有的比赛记录，我会在比赛初期开源部分赛题的Baseline， 比赛结束后视赛题要求决定是否开源我或者我们团队的复赛方案及源代码，既是分享，也是记录
 
+## 近期比赛
+
+
+[中兴捧月 已报名 4.8启动](https://www.nowcoder.com/activity/challenge2021/1)
+
+[第二届“马栏山杯”国际音视频算法大赛 已报名 4.15启动](https://challenge.ai.mgtv.com/contest/detail/7)
+
+[安泰杯 已报名 4.17启动](https://tianchi.aliyun.com/competition/entrance/531879/rankingList)
+
+[京东物流科技创新挑战赛 自动驾驶行为预测 未报名 4.26启动](https://jdata.jd.com/html/detail.html?id=13)
+
+[FinTech精英训练营 已报名 4.29启动](https://career.cloud.cmbchina.com/index.html#fintech)
+
+[微信大数据挑战赛 未报名 4.30启动](https://algo.weixin.qq.com/)
+
+## 已结束比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
 | 基于车联网大数据的碰撞识别              | 2021.3 - 2021.4 | Structure | [Private]()                                    |   Prizes   | Team |  9 / 1346|
