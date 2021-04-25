@@ -17,6 +17,11 @@
 
 [微信大数据挑战赛 未报名 4.30启动](https://algo.weixin.qq.com/)
 
+[人工智能创新大赛](http://ailab.aiwin.org.cn/competitions/52#results)
+
+[sodic](https://www.sodic.com.cn/)
+
+
 ## 已结束比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
