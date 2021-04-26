@@ -21,6 +21,8 @@
 
 [sodic](https://www.sodic.com.cn/)
 
+[2021中国大学生保险数字挑战赛](https://www.heywhale.com/home/competition/607d279965852e0017ab9575/content)
+
 
 ## 已结束比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
