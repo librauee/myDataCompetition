@@ -28,7 +28,7 @@
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
 | 微信大数据挑战赛              | 2021.5 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Team |  |
-| FinTech精英训练营              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo |  |
+| FinTech精英训练营              | 2021.4 - 2021.5 | Structure | [Public](https://github.com/librauee/ZSYH)                                    |   Prizes   | Solo | 24 |
 | 安泰杯              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo |  |
 | 保险数字挑战赛              | 2021.4 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Solo | |
 | 中兴捧月              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo |  |
