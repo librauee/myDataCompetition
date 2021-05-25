@@ -8,6 +8,8 @@
 
 [三一 数据应用大赛](https://datazone.sanygroup.com/v2/sanyi/home.html)
 
+[未来杯 高校AI挑战赛](https://ai.futurelab.tv/tournament/7)
+
 [华为NAIE 无线大数据](https://console.huaweicloud.com/naie/competitions/wireless-network-intelligent-cm-2021)
 
 
