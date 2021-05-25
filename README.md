@@ -4,6 +4,12 @@
 
 ## 近期比赛
 
+[滴滴 到达时间预估](https://biendata.xyz/competition/didi-eta/)
+
+[三一 数据应用大赛](https://datazone.sanygroup.com/v2/sanyi/home.html)
+
+[华为NAIE 无线大数据](https://console.huaweicloud.com/naie/competitions/wireless-network-intelligent-cm-2021)
+
 
 [中兴捧月 已报名 4.8启动](https://www.nowcoder.com/activity/challenge2021/1)
 
