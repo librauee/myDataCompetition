@@ -32,9 +32,10 @@
 [2021中国大学生保险数字挑战赛](https://www.heywhale.com/home/competition/607d279965852e0017ab9575/content)
 
 
-## 已结束比赛
+## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
+| 三一数据应用创新大赛              | 2021.5 - 2021.6 | Structure | [Baseline](https://github.com/librauee/WJJ)                                    |   Prizes   | Solo | |
 | 微信大数据挑战赛              | 2021.5 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Team |  |
 | FinTech精英训练营              | 2021.4 - 2021.5 | Structure | [Public](https://github.com/librauee/ZSYH)                                    |   Prizes   | Solo | 24 |
 | 安泰杯              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo |  5 |
