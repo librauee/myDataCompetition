@@ -4,6 +4,12 @@
 
 ## 近期比赛
 
+[第三届中国AI+创新创业大赛](https://aistudio.baidu.com/aistudio/competition/detail/78)
+
+[IJCAI2021](https://www.biendata.xyz/competition/who-is-who2021/)
+
+[数源杯](https://js.dclab.run/v2/cmptDetail.html?id=482)
+
 [滴滴 到达时间预估](https://biendata.xyz/competition/didi-eta/)
 
 [三一 数据应用大赛](https://datazone.sanygroup.com/v2/sanyi/home.html)
