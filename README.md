@@ -41,6 +41,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
+| 科大讯飞AI开发者大赛 | 2021.6 - 2021.8 | Structure | [Baseline](https://github.com/librauee/IFLY)                                    |   Prizes   | Solo | |
 | 三一数据应用创新大赛              | 2021.5 - 2021.6 | Structure | [Baseline](https://github.com/librauee/WJJ)                                    |   Prizes   | Solo | |
 | 微信大数据挑战赛              | 2021.5 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Team |  |
 | FinTech精英训练营              | 2021.4 - 2021.5 | Structure | [Public](https://github.com/librauee/ZSYH)                                    |   Prizes   | Solo | 24 |
