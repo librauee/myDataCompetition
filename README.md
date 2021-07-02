@@ -4,6 +4,12 @@
 
 ## 近期比赛
 
+[全球校园AI算法精英大赛](https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.html#/)
+
+[广东省农信联社2021年金融科技校园挑战赛](https://www.saikr.com/vse/43862)
+
+[2021IKCEST第三届“一带一路”国际大数据竞赛](https://aistudio.baidu.com/aistudio/competition/detail/91)
+
 [第三届中国AI+创新创业大赛](https://aistudio.baidu.com/aistudio/competition/detail/78)
 
 [IJCAI2021](https://www.biendata.xyz/competition/who-is-who2021/)
