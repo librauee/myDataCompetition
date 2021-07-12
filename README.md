@@ -8,12 +8,12 @@
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
 | 科大讯飞AI开发者大赛 | 2021.6 - 2021.8 | Structure | [Baseline](https://github.com/librauee/IFLY)                                    |   Prizes   | Solo | |
-| 三一数据应用创新大赛              | 2021.5 - 2021.6 | Structure | [Baseline](https://github.com/librauee/WJJ)                                    |   Prizes   | Solo | |
+| 三一数据应用创新大赛              | 2021.5 - 2021.6 | Structure | [Baseline](https://github.com/librauee/WJJ)                                    |   Prizes   | Solo | NA |
 | 微信大数据挑战赛              | 2021.5 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Team |  |
-| FinTech精英训练营              | 2021.7 - 2021.7 | Structure | [Private]()                                    |   Prizes   | Team | 1 |
+| FinTech精英训练营              | 2021.7 - 2021.7 | Structure | [Private]()                                    |   Prizes   | Team | 1 / 12|
 | FinTech精英训练营-初赛              | 2021.4 - 2021.5 | Structure | [Public](https://github.com/librauee/ZSYH)                                    |   Prizes   | Solo | 24 |
-| 安泰杯              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo |  5 |
-| 保险数字挑战赛              | 2021.4 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Solo | |
+| 安泰杯              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo |  5 / 322 |
+| 保险数字挑战赛              | 2021.4 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Solo | NA |
 | 中兴捧月              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo | 4 |
 | 腾讯游戏安全技术竞赛              | 2021.4 - 2021.4 | Structure | [Public](https://github.com/librauee/gslab2021)                                    |   Prizes   | Solo | 4 |
 | “梧桐杯”中国移动大数据应用创新大赛              | 2021.1 - 2021.3 | Structure | [Baseline](https://github.com/librauee/Wutong/tree/master)                                    |   Prizes   | Team | 7 / 475 |
