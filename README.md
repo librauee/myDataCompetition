@@ -11,13 +11,13 @@
 | 三一数据应用创新大赛              | 2021.5 - 2021.6 | Structure | [Baseline](https://github.com/librauee/WJJ)                                    |   Prizes   | Solo | NA |
 | 微信大数据挑战赛              | 2021.5 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Team |  |
 | FinTech精英训练营              | 2021.7 - 2021.7 | Structure | [Private]()                                    |   Prizes   | Team | 1 / 12|
-| FinTech精英训练营-初赛              | 2021.4 - 2021.5 | Structure | [Public](https://github.com/librauee/ZSYH)                                    |   Prizes   | Solo | 24 / unknown |
+| FinTech精英训练营-初赛              | 2021.4 - 2021.5 | Structure | [Public](https://github.com/librauee/ZSYH)                                    |   Prizes   | Solo | 24 / UK |
 | 安泰杯              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo |  5 / 322 |
 | 保险数字挑战赛              | 2021.4 - 2021.6 | Structure | [Private]()                                    |   Prizes   | Solo | NA |
 | 中兴捧月              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   | Solo | 4 |
-| 腾讯游戏安全技术竞赛              | 2021.4 - 2021.4 | Structure | [Public](https://github.com/librauee/gslab2021)                                    |   Prizes   | Solo | 4 / unknown|
+| 腾讯游戏安全技术竞赛              | 2021.4 - 2021.4 | Structure | [Public](https://github.com/librauee/gslab2021)                                    |   Prizes   | Solo | 4 / UK|
 | “梧桐杯”中国移动大数据应用创新大赛              | 2021.1 - 2021.3 | Structure | [Baseline](https://github.com/librauee/Wutong/tree/master)                                    |   Prizes   | Team | 7 / 475 |
-| 银联商务智慧支付挑战赛              | 2021.1 - 2021.3 | Structure | [Public](https://github.com/librauee/YLSW)                                    |   Prizes   | Solo | 2 / unknown|
+| 银联商务智慧支付挑战赛              | 2021.1 - 2021.3 | Structure | [Public](https://github.com/librauee/YLSW)                                    |   Prizes   | Solo | 2 / UK|
 | 基于AI的信道信息反馈性能提升      | 2021.1 - 2021.3 | Structure | [Baseline]()                                    |   Prizes   | Team | 13 / 1175  |
 | Cassava Leaf Disease Classification      | 2021.1 - 2021.2 | Image | [Public](https://github.com/librauee/cassava/tree/master)                                    |   Prizes   |  Solo | 53 / 3900 🥈|
 | 租金预测      | 2020.12 - 2020.12 | Structure | [Topline](https://github.com/librauee/PracticeCompetition/tree/master/rental_predict)                                    |   Practice   |  Solo | 2 / 634 |
@@ -30,4 +30,7 @@
 | 链想家计算科技大赛         | 2020.8 - 2020.11 | Structure | [Private](https://github.com/librauee/2020MOOCCube) |   Prizes  | Team | 1 / 630    |
 | WAIC全球工业互联网算法大赛 | 2020.7 - 2020.9  | Structure | [Private](https://github.com/librauee/WAIC2020)     |    Prizes | Solo | 3 / 200+     |
 | ALASKA2 Image Steganalysis | 2020.5 - 2020.6  | Image     | [Public](https://github.com/librauee/ALASKA2)     |   Prizes  | Solo | NA |
+
+* NA = GG or 弃赛
+* UN = 参赛人数未知
 
