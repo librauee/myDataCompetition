@@ -32,5 +32,5 @@
 | ALASKA2 Image Steganalysis | 2020.5 - 2020.6  | Image     | [Public](https://github.com/librauee/ALASKA2)     |   Prizes  | Solo | NA |
 
 * NA = GG or 弃赛
-* UN = 参赛人数未知
+* UK = 参赛人数未知
 
