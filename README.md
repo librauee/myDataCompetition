@@ -7,6 +7,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
+| 字节跳动安全AI挑战赛 | 2021.9 - 2021.11 | Structure |      [Private]()                              |   Prizes   | Solo | |
 | 神州信息金融科技大赛 | 2021.9 - 2021.10 | Structure |      [Private]()                              |   Prizes   | Solo | |
 | 全球算法精英大赛 | 2021.6 - 2021.10 | Structure |      [Private]()                              |   Prizes   | Team | 2 |
 | 科大讯飞AI开发者大赛 | 2021.6 - 2021.10 | Structure | [Baseline](https://github.com/librauee/IFLY)                                    |   Prizes   | Solo | NA |
