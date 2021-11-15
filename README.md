@@ -7,6 +7,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
+| 心电图智能诊断竞赛 | 2021.11 - 2021.12 | Structure |      [Baseline](https://github.com/librauee/ECG)                              |   Prizes   | Solo | |
 | CCF BDCI 系统认证风险预测 | 2021.10 - 2021.11 | Structure |      [Private]()                              |   Prizes   | Team | |
 | ATEC科技精英赛 | 2021.10 - 2021.11 | Structure |      [Private]()                              |   Prizes   | Team | 1 / UK|
 | 字节跳动安全AI挑战赛 | 2021.9 - 2021.11 | Structure |      [Private]()                              |   Prizes   | Team | 6 / 500+ |
