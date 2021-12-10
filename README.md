@@ -4,6 +4,12 @@
 
 ## 近期比赛
 
+* [AAAI](https://tianchi.aliyun.com/competition/entrance/531939/introduction)
+
+* [爱奇艺](http://challenge.ai.iqiyi.com/detail?raceId=61600f6cef1b65639cd5eaa6)
+
+* [山东赛](http://data.sd.gov.cn/cmpt/cmptDetail.html?id=55)
+
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
