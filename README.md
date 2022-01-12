@@ -13,10 +13,10 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
-| Pawpularity Contest | 2021.12 - 2022.1 | Image |            [Private]()                     |   Prizes   | Solo | |
-| AAAI-2022 | 2021.12 - 2022.1 | Image |            [Private]()                     |   Prizes   | Solo | |
-| 心电图智能诊断竞赛 | 2021.11 - 2021.12 | Structure |      [Baseline](https://github.com/librauee/ECG)                              |   Prizes   | Solo | |
-| CCF BDCI 系统认证风险预测 | 2021.10 - 2021.11 | Structure |      [Private]()                              |   Prizes   | Team | 1 / 1085|
+| 山东赛 | 2021.12 - 2022.1 | Signal |            [Private]()                     |   Prizes   | Solo | |
+| Pawpularity Contest | 2021.12 - 2022.1 | Image |            [Private]()                     |   Prizes   | Team | |
+| 心电图智能诊断竞赛 | 2021.11 - 2021.12 | Signal |      [Baseline](https://github.com/librauee/ECG)                              |   Prizes   | Solo | |
+| CCF BDCI 系统认证风险预测 | 2021.10 - 2021.11 | Structure |      [Public](https://github.com/zui0711/Z-Lab/tree/main/2021%20CCF%20BDCI/%E7%B3%BB%E7%BB%9F%E8%AE%A4%E8%AF%81%E9%A3%8E%E9%99%A9%E9%A2%84%E6%B5%8BRank1)                              |   Prizes   | Team | 1 / 1085|
 | ATEC科技精英赛 | 2021.10 - 2021.11 | Structure |      [Private]()                              |   Prizes   | Team | 1 / UK|
 | 字节跳动安全AI挑战赛 | 2021.9 - 2021.11 | Structure |      [Public](https://github.com/librauee/ByteDanceAI)                              |   Prizes   | Team | 6 / 500+ |
 | 神州信息极客大赛 | 2021.9 - 2021.11 | Structure |      [Private](https://github.com/librauee/ShenZhou)                              |   Prizes   | Solo | 1 / UK |
