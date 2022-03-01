@@ -7,7 +7,6 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
-| Jigsaw Rate Severity of Toxic Comments | 2021.1 - 2022.2 | NLP |            [Private]()                     |   Prizes   | Solo |  |
 | 山东赛 | 2021.12 - 2022.1 | Signal |            [Private]()                     |   Prizes   | Solo | 2 / 298|
 | Pawpularity Contest | 2021.12 - 2022.1 | Image |            [Private]()                     |   Prizes   | Team | 201 / 3537 🥉 |
 | 心电图智能诊断竞赛 | 2021.11 - 2021.12 | Signal |      [Baseline](https://github.com/librauee/ECG)                              |   Prizes   | Solo | NA |
