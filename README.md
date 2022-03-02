@@ -10,6 +10,8 @@
 
 [DCIC(系列赛多个赛题)](https://www.dcic-china.com/competitions/10024)
 
+[基于图像和激光雷达融合的障碍物识别](https://challenge.datacastle.cn/v3/cmptDetail.html?id=621)
+
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
