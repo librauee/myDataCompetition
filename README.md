@@ -20,6 +20,8 @@
 
 [Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/c/happy-whale-and-dolphin)
 
+[H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations)
+
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
