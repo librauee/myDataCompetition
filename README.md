@@ -12,6 +12,14 @@
 
 [基于图像和激光雷达融合的障碍物识别](https://challenge.datacastle.cn/v3/cmptDetail.html?id=621)
 
+[电商关键属性的图文匹配](https://www.kesci.com/home/competition/620b34c41f3cf500170bd6ca)
+
+[商品标题实体识别](https://www.kesci.com/home/competition/620b34ed28270b0017b823ad)
+
+[NBME - Score Clinical Patient Notes](https://www.kaggle.com/c/nbme-score-clinical-patient-notes)
+
+[Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/c/happy-whale-and-dolphin)
+
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
