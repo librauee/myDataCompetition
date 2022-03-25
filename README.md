@@ -25,9 +25,9 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type | Team_Type | Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |------- |
-| Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   | Solo |  |
-| Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   | Solo |  |
-| DCIC交易验证码识别 | 2022.2 - 2022.3 | Image |  [Private]()                     |   Prizes   | Solo |  |
+| Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   | Team |  |
+| Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   | Solo | 94 / 2058 🥈 |
+| DCIC交易验证码识别 | 2022.2 - 2022.3 | Image |  [Private]()                     |   Prizes   | Team |  |
 | 山东赛 | 2021.12 - 2022.1 | Signal |            [Private]()                     |   Prizes   | Solo | 2 / 298|
 | Pawpularity Contest | 2021.12 - 2022.1 | Image |            [Private]()                     |   Prizes   | Team | 201 / 3537 🥉 |
 | 心电图智能诊断竞赛 | 2021.11 - 2021.12 | Signal |      [Baseline](https://github.com/librauee/ECG)                              |   Prizes   | Solo | NA |
