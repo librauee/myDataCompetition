@@ -27,7 +27,7 @@
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
 | Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   |   |
 | Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   |  94 / 2058 🥈 |
-| DCIC交易验证码识别 | 2022.2 - 2022.3 | Image |  [Private]()                     |   Prizes   |   |
+| DCIC交易验证码识别 | 2022.2 - 2022.3 | Image |  [Private]()                     |   Prizes   | 7 / 826  |
 | 山东赛 | 2021.12 - 2022.1 | Signal |            [Private]()                     |   Prizes   |  2 / 298|
 | Pawpularity Contest | 2021.12 - 2022.1 | Image |            [Private]()                     |   Prizes   |  201 / 3537 🥉 |
 | 心电图智能诊断竞赛 | 2021.11 - 2021.12 | Signal |      [Baseline](https://github.com/librauee/ECG)                              |   Prizes   |  NA |
