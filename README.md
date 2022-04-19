@@ -25,7 +25,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
-| Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   |   |
+| Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   | 3 / 1613   |
 | Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   |  94 / 2058 🥈 |
 | DCIC交易验证码识别 | 2022.2 - 2022.3 | Image |  [Private]()                     |   Prizes   | 7 / 826  |
 | 山东赛 | 2021.12 - 2022.1 | Signal |            [Private]()                     |   Prizes   |  2 / 298|
