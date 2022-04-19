@@ -27,6 +27,7 @@
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
 | Kaggle Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   | 3 / 1613  🥇|
 | Kaggle Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   |  94 / 2058 🥈 |
+| DCIC数字医疗赛道 | 2022.2 - 2022.3 | Structure |  [Private]()                     |   Prizes   | 6 / 485  |
 | DCIC交易验证码识别 | 2022.2 - 2022.3 | Image |  [Private]()                     |   Prizes   | 7 / 826  |
 | 山东赛 | 2021.12 - 2022.1 | Signal |            [Private]()                     |   Prizes   |  2 / 298|
 | Kaggle Pawpularity Contest | 2021.12 - 2022.1 | Image |            [Private]()                     |   Prizes   |  201 / 3537 🥉 |
