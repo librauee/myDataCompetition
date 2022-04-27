@@ -25,7 +25,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
-| 腾讯游戏安全技术竞赛   | 2022.4 - 2022.4 | Structure |  [Public](https://github.com/librauee/gslab2021)                    |   Prizes   |  |
+| 腾讯游戏安全技术竞赛   | 2022.4 - 2022.4 | Structure |  [Public](https://github.com/librauee/gslab2022)                    |   Prizes   |  |
 | Kaggle Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   | 3 / 1613  🥇|
 | Kaggle Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   |  94 / 2058 🥈 |
 | DCIC数字医疗赛道 | 2022.2 - 2022.3 | Structure |  [Private]()                     |   Prizes   | 6 / 485  |
