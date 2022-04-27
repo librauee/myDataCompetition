@@ -25,11 +25,12 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
+| 腾讯游戏安全技术竞赛   | 2022.4 - 2022.4 | Structure |  [Public](https://github.com/librauee/gslab2021)                    |   Prizes   |  |
 | Kaggle Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   | 3 / 1613  🥇|
 | Kaggle Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   |  94 / 2058 🥈 |
 | DCIC数字医疗赛道 | 2022.2 - 2022.3 | Structure |  [Private]()                     |   Prizes   | 6 / 485  |
-| DCIC交易验证码识别 | 2022.2 - 2022.3 | Image |  [Private]()                     |   Prizes   | 7 / 826  |
-| 山东赛 | 2021.12 - 2022.1 | Signal |            [Private]()                     |   Prizes   |  2 / 298|
+| DCIC交易验证码识别 | 2022.2 - 2022.3 | Image |  [Public](https://github.com/librauee/DCIC-OCR)                     |   Prizes   | 6 / 826  |
+| 山东赛 | 2021.12 - 2022.1 | Signal |            [Public](https://github.com/librauee/SD_ECG)                     |   Prizes   |  2 / 298|
 | Kaggle Pawpularity Contest | 2021.12 - 2022.1 | Image |            [Private]()                     |   Prizes   |  201 / 3537 🥉 |
 | 心电图智能诊断竞赛 | 2021.11 - 2021.12 | Signal |      [Baseline](https://github.com/librauee/ECG)                              |   Prizes   |  NA |
 | CCF BDCI 系统认证风险预测 | 2021.10 - 2021.11 | Structure |      [Public](https://github.com/zui0711/Z-Lab/tree/main/2021%20CCF%20BDCI/%E7%B3%BB%E7%BB%9F%E8%AE%A4%E8%AF%81%E9%A3%8E%E9%99%A9%E9%A2%84%E6%B5%8BRank1)                              |   Prizes   |  1 / 1085|
