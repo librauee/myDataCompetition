@@ -28,8 +28,8 @@
 | 三一数据应用创新大赛              | 2021.5 - 2021.6 | Structure | [Baseline](https://github.com/librauee/WJJ)                                    |   Prizes   |  NA |
 | 微信大数据挑战赛              | 2021.5 - 2021.6 | Structure | [Public](https://github.com/librauee/WBDC)                                    |   Prizes   |  23 / 6768 |
 | 腾讯广告算法大赛              | 2021.5 - 2021.7 | multi-modal | [Private]()                                    |   Prizes   |  6 / UK |
-| FinTech精英训练营              | 2021.7 - 2021.7 | Structure | [Private]()                                    |   Prizes   |  3 / 12|
-| FinTech精英训练营-初赛              | 2021.4 - 2021.5 | Structure | [Public](https://github.com/librauee/ZSYH)                                    |   Prizes   |  24 / UK |
+| 2021FinTech精英训练营              | 2021.7 - 2021.7 | Structure | [Private]()                                    |   Prizes   |  3 / 12|
+| 2021FinTech精英训练营-初赛              | 2021.4 - 2021.5 | Structure | [Public](https://github.com/librauee/ZSYH)                                    |   Prizes   |  24 / UK |
 | 安泰杯              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   |   5 / 322 |
 | 保险数字挑战赛              | 2021.4 - 2021.6 | Structure | [Private]()                                    |   Prizes   |  NA |
 | 中兴捧月              | 2021.4 - 2021.5 | Structure | [Private]()                                    |   Prizes   |  4 / UK |
