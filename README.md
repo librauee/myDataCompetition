@@ -4,28 +4,14 @@
 
 ## 近期比赛
 
-[第三届阿里云磐久智维算法大赛](https://tianchi.aliyun.com/competition/entrance/531947/introduction?spm=5176.12281949.1003.1.493e24480R6nSB)
-
-[真实场景篡改图像检测挑战赛](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.2.493e24480R6nSB)
-
-[DCIC(系列赛多个赛题)](https://www.dcic-china.com/competitions/10024)
-
-[基于图像和激光雷达融合的障碍物识别](https://challenge.datacastle.cn/v3/cmptDetail.html?id=621)
-
-[电商关键属性的图文匹配](https://www.kesci.com/home/competition/620b34c41f3cf500170bd6ca)
-
-[商品标题实体识别](https://www.kesci.com/home/competition/620b34ed28270b0017b823ad)
-
-[NBME - Score Clinical Patient Notes](https://www.kaggle.com/c/nbme-score-clinical-patient-notes)
-
-[Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/c/happy-whale-and-dolphin)
-
-[H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations)
 
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
-| 腾讯游戏安全技术竞赛   | 2022.4 - 2022.4 | Structure |  [Public](https://github.com/librauee/gslab2022)                    |   Prizes   | UK |
+| 2022“马栏山杯”国际音视频算法大赛  | 2022.4 - 2022.6 | Structure |  [Private]()                  |   Prizes   |  |
+| 发债企业的违约风险预警  | 2022.4 - 2022.5 | Structure |  [Private]()                  |   Prizes   |  |
+| 2022FinTech精英训练营   | 2022.4 - 2022.5 | Structure |  [Private]()               |   Prizes   |  |
+| 2022腾讯游戏安全技术竞赛   | 2022.4 - 2022.4 | Structure |  [Public](https://github.com/librauee/gslab2022)                    |   Prizes   | UK |
 | Kaggle Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   | 3 / 1613  🥇|
 | Kaggle Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   |  94 / 2058 🥈 |
 | DCIC数字医疗赛道 | 2022.2 - 2022.3 | Structure |  [Private]()                     |   Prizes   | 6 / 485  |
