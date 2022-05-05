@@ -8,7 +8,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
-| 2022“马栏山杯”国际音视频算法大赛  | 2022.4 - 2022.6 | Structure |  [Private]()                  |   Prizes   |  |
+| 2022“马栏山杯”国际音视频算法大赛  | 2022.4 - 2022.6 | Audio |  [Private]()                  |   Prizes   |  |
 | 发债企业的违约风险预警  | 2022.4 - 2022.5 | Structure |  [Private]()                  |   Prizes   |  |
 | 2022FinTech精英训练营   | 2022.4 - 2022.5 | Structure |  [Private]()               |   Prizes   |  |
 | 2022腾讯游戏安全技术竞赛   | 2022.4 - 2022.4 | Structure |  [Public](https://github.com/librauee/gslab2022)                    |   Prizes   | UK |
