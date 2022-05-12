@@ -10,7 +10,7 @@
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
 | 2022“马栏山杯”国际音视频算法大赛  | 2022.4 - 2022.6 | Audio |  [Private]()                  |   Prizes   |  |
 | 发债企业的违约风险预警  | 2022.4 - 2022.5 | Structure |  [Private]()                  |   Prizes   |  |
-| 2022FinTech精英训练营   | 2022.4 - 2022.5 | Structure |  [Private]()               |   Prizes   |  |
+| 2022FinTech精英训练营   | 2022.4 - 2022.5 | Structure |  [Public](https://github.com/librauee/ZSYH2022)               |   Prizes   | 28 / UK |
 | 2022腾讯游戏安全技术竞赛   | 2022.4 - 2022.4 | Structure |  [Public](https://github.com/librauee/gslab2022)                    |   Prizes   | UK |
 | Kaggle Happywhale  | 2022.2 - 2022.4 | Image |  [Private]()                     |   Prizes   | 3 / 1613  🥇|
 | Kaggle Feedback Prize | 2022.2 - 2022.3 | NLP |  [Private]()                     |   Prizes   |  94 / 2058 🥈 |
