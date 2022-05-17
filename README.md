@@ -8,6 +8,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
+| 2022搜狐校园算法大赛  | 2022.4 - 2022.5 | NLP |  [Private]()                  |   Prizes   |  |
 | 2022“马栏山杯”国际音视频算法大赛  | 2022.4 - 2022.6 | Audio |  [Private]()                  |   Prizes   |  |
 | 发债企业的违约风险预警  | 2022.4 - 2022.5 | Structure |  [Private]()                  |   Prizes   |  |
 | 2022FinTech精英训练营   | 2022.4 - 2022.5 | Structure |  [Public](https://github.com/librauee/ZSYH2022)               |   Prizes   | 26 / UK |
