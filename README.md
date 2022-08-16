@@ -9,7 +9,8 @@
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
 | 创意视角下的数字广告CTR预估挑战赛  | 2022.7 - 2022.8 | Structure |  [Private]()                  |   Prizes   | |
-| 中文语义病句识别挑战赛  | 2022.7 - 2022.8 | NLP |  [Private]()                  |   Prizes   | |
+| 应用类型识别挑战赛  | 2022.7 - 2022.8 | NLP |  [Baseline](https://github.com/librauee/XF2022/blob/main/%E5%BA%94%E7%94%A8%E7%B1%BB%E5%9E%8B%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B/xf_yy_baseline_735.ipynb)                  |   Prizes   | |
+| 中文语义病句识别挑战赛  | 2022.7 - 2022.8 | NLP |  [Baseline](https://github.com/librauee/XF2022/blob/main/%E4%B8%AD%E6%96%87%E8%AF%AD%E4%B9%89%E7%97%85%E5%8F%A5%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B/xf_bj_baseline.ipynb)                  |   Prizes   | |
 | 机动车车牌识别挑战赛  | 2022.8 - 2022.8 | Image |  [Private]()                  |   Prizes   | |
 | 新冠肺炎声音诊断挑战赛2.0  | 2022.8 - 2022.8 | Audio |  [Private]()                  |   Prizes   | 3 / 92 |
 | 糖尿病遗传风险检测挑战赛  | 2022.8 - 2022.8 | Structure |  [Private]()                  |   Prizes   | 10 / 2639 |
