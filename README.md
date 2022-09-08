@@ -8,9 +8,9 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
-| Web攻击检测与分类识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | |
-| 系统访问风险识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | |
-| 返乡发展人群预测  | 2022.9 - 2022.10 | Structure |  [Baseline](https://github.com/librauee/CCF2022/blob/main/FX/FX_baseline.py)                  |   Prizes   | |
+| CCF BDCI Web攻击检测与分类识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | |
+| CCF BDCI 系统访问风险识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | |
+| CCF BDCI 返乡发展人群预测  | 2022.9 - 2022.10 | Structure |  [Baseline](https://github.com/librauee/CCF2022/blob/main/FX/FX_baseline.py)                  |   Prizes   | |
 | 创意视角下的数字广告CTR预估挑战赛  | 2022.7 - 2022.8 | Structure |  [Private]()                  |   Prizes   | 3 / 593|
 | 基于多模态信息的音视频语音唤醒挑战赛  | 2022.7 - 2022.8 | Audio |  [Private]()                  |   Prizes   | 4 / 170|
 | 应用类型识别挑战赛  | 2022.7 - 2022.8 | NLP |  [Baseline](https://github.com/librauee/XF2022/blob/main/%E5%BA%94%E7%94%A8%E7%B1%BB%E5%9E%8B%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B/xf_yy_baseline_735.ipynb)                  |   Prizes   | |
