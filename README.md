@@ -8,6 +8,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
+| CCF BDCI 小样本数据分类任务  | 2022.9 - 2022.10 | NLP |  [Private]()                  |   Prizes   | |
 | CCF BDCI Web攻击检测与分类识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | |
 | CCF BDCI 系统访问风险识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | |
 | CCF BDCI 返乡发展人群预测  | 2022.9 - 2022.10 | Structure |  [Baseline](https://github.com/librauee/CCF2022/blob/main/FX/FX_baseline.py)                  |   Prizes   | |
