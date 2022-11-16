@@ -8,6 +8,7 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
+| 绿色计算大赛  | 2022.11 - 2022.11 | Structure |  [Private]()                  |   Prizes   | 1 / UK |
 | CCF BDCI 小样本数据分类任务  | 2022.9 - 2022.10 | NLP |  [Private]()                  |   Prizes   | NA |
 | CCF BDCI Web攻击检测与分类识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | 1 / 584|
 | CCF BDCI 系统访问风险识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | 4 / 1557|
