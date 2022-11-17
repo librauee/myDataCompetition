@@ -14,7 +14,7 @@
 | CCF BDCI 系统访问风险识别  | 2022.9 - 2022.10 | Structure |  [Private]()                  |   Prizes   | 4 / 1557|
 | CCF BDCI 返乡发展人群预测  | 2022.9 - 2022.10 | Structure |  [Baseline](https://github.com/librauee/CCF2022/blob/main/FX/FX_baseline.py)                  |   Prizes   | 5 / 2896|
 | 人岗匹配挑战赛 | 2022.8 - 2022.9 | Structure |  [Private]()                  |   Prizes   |  1 / 542 |
-| 创意视角下的数字广告CTR预估挑战赛  | 2022.7 - 2022.8 | Structure |  [Private]()                  |   Prizes   | 3 / 593|
+| 创意视角下的数字广告CTR预估挑战赛  | 2022.7 - 2022.8 | Structure |  [Public](https://github.com/librauee/XF2022)                  |   Prizes   | 3 / 593|
 | 基于多模态信息的音视频语音唤醒挑战赛  | 2022.7 - 2022.8 | Audio |  [Private]()                  |   Prizes   | 4 / 170|
 | 应用类型识别挑战赛  | 2022.7 - 2022.8 | NLP |  [Baseline](https://github.com/librauee/XF2022/blob/main/%E5%BA%94%E7%94%A8%E7%B1%BB%E5%9E%8B%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B/xf_yy_baseline_735.ipynb)                  |   Prizes   | NA |
 | 中文语义病句识别挑战赛  | 2022.7 - 2022.8 | NLP |  [Baseline](https://github.com/librauee/XF2022/blob/main/%E4%B8%AD%E6%96%87%E8%AF%AD%E4%B9%89%E7%97%85%E5%8F%A5%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B/xf_bj_baseline.ipynb)                  |   Prizes   | 3 / 471 |
