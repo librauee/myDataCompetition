@@ -8,6 +8,8 @@
 ## 参加的比赛
 | Name                       | Time             | Data_Type      | Repository                                          | Comp_Type |  Ranking online |
 | -------------------------- | ---------------- | --------- | --------------------------------------------------- | ------- | ------- |
+| Kaggle AMP®-Parkinson's Disease Progression Prediction| 2023.03 - 2023.05 | Structure |  [Private]()                  |   Prizes   | 8 / 1805 🥇|
+| Stable Diffusion - Image to Prompts | 2023.03 - 2023.05 | Image |  [Private]()                  |   Prizes   | 79 / 1231 🥉|
 | Imagine Computing  边缘云内容分发| 2022.11 - 2023.1 | Structure |  [Private]()                  |   Prizes   | 1 / 3493 |
 | 绿色计算大赛  | 2022.11 - 2022.11 | Structure |  [Private]()                  |   Prizes   | 1 / 2153 |
 | CCF BDCI 小样本数据分类任务  | 2022.9 - 2022.10 | NLP |  [Private]()                  |   Prizes   | NA |
